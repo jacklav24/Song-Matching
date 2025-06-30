@@ -12,6 +12,8 @@ The most fun use of this project is inputting a massively famous song, and seein
 
 ## Project Overview
 
+This is a single jupyter notebook, with user input.
+
 The pipeline performs the following steps:
 1. **Data Sourcing**
    Kaggle!
